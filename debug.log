@@ -5889,3 +5889,10 @@
 [0402/233401:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined", source: http://127.0.0.1:54321/_DRIVE_D_EVIRD_/program/datanews/datanews/edge_includes/jquery-2.0.3.min.js (0)
 [0402/233745:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined,0", source: about:docKey-118 (0)
 [0402/233745:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined", source: http://127.0.0.1:54321/_DRIVE_D_EVIRD_/program/datanews/datanews/edge_includes/jquery-2.0.3.min.js (0)
+[0403/000105:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0403/000105:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0403/000106:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0403/000106:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0403/000107:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0403/000115:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0403/000218:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
